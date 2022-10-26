@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Percentage Calculator</string>
+    <string name="welcome_text">"Welcome. Enter a value, percentage, and click convert to find percentage "</string>
+    <string name="percentage_hint">Percentage</string>
+    <string name="value_hint">Value</string>
+    <string name="convert_button_text">Convert</string>
+    <string name="back_button_text">Back</string>
+</resources>
